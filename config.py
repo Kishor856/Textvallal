@@ -12,20 +12,20 @@ class Config(object):
     # Database ka naam
     DB_NAME = "lifegoal"
     # Text log channel ki ID
-    TXT_LOG = -1002761572365
+    TXT_LOG = -7623178784
     # Authentication log channel ki ID
-    AUTH_LOG = -1002761572365
+    AUTH_LOG = -7623178784
     # Hit log channel ki ID
-    HIT_LOG = -1002761572365
+    HIT_LOG = -7623178784
     # DRM dump channel ki ID
-    DRM_DUMP = -1002761572365
+    DRM_DUMP = -7623178784
     # Main channel ki ID
-    CHANNEL = -1002761572365
+    CHANNEL = -7623178784
     # Channel ka link
     CH_URL = "https://t.me/+c72WBoMVF6I0ZTNl"
     # Bot ke owner ka Telegram link
     OWNER = "https://t.me/username"
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
-    PREMIUM_LOGS = "-1002761572365"
+    PREMIUM_LOGS = "-7623178784"
     
